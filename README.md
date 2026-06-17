@@ -18,6 +18,10 @@ A simple Spotify-inspired music player UI built using HTML, CSS, and Bootstrap.
 1. Download or clone the repository
 2. Open `index.html` in your browser
 
+## Screenshots
+![Spotify Clone](spotify1.jpg)
+
+
 ## Future Improvements
 - Add real audio functionality
 - Play/Pause controls
